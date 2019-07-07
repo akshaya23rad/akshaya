@@ -4,12 +4,12 @@ You can use the [editor on GitHub](https://github.com/akshaya23rad/akshaya/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### My Tech Journey
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ever since I was a kid I wanted to become a doctor. It meant that I could solve problems and help people at the same time. 
 
 ```markdown
-Syntax highlighted code block
+That's what I'm passionate about. People and solving problems. 
 
 # Header 1
 ## Header 2
